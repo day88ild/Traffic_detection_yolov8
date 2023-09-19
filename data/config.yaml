@@ -1,0 +1,13 @@
+path: /home/user/Стільниця/python/jpnb_projects/Traffic_detection_yolov8/data
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+
+names: 
+  
+  0: 'bicycle'
+  1: 'bus'
+  2: 'car'
+  3: 'motorbike'
+  4: 'person'
