@@ -41,7 +41,7 @@ This project is an experiment in traffic detection using YOLO. It includes a tra
 
 ## Data
 
-You can find the data set in **/data** directory or on Kaggle (https://www.kaggle.com/datasets/fareselmenshawii/face-detection-dataset).
+You can find the data set in **/data** directory or on Kaggle (https://www.kaggle.com/datasets/yusufberksardoan/traffic-detection-project?select=data.yaml).
 Also feel free to create your own data using **/getting_my_data.ipnb** (your images will be saved into **/my_data_in_progress**) and you can then label it using label-studio.
 I would recommend you to create your own data due to the quality of the data from Kaggle. Using this data set I have managed to reach some reasonable results though.
 
